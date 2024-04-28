@@ -1,0 +1,7 @@
+C:\Users\luand\OneDrive\Bureau\Retn\Path Mover\bin\Debug\RetnMover.exe.config
+C:\Users\luand\OneDrive\Bureau\Retn\Path Mover\bin\Debug\RetnMover.exe
+C:\Users\luand\OneDrive\Bureau\Retn\Path Mover\bin\Debug\RetnMover.pdb
+C:\Users\luand\OneDrive\Bureau\Retn\Path Mover\obj\Debug\RetnMover.csproj.AssemblyReference.cache
+C:\Users\luand\OneDrive\Bureau\Retn\Path Mover\obj\Debug\RetnMover.csproj.CoreCompileInputs.cache
+C:\Users\luand\OneDrive\Bureau\Retn\Path Mover\obj\Debug\RetnMover.exe
+C:\Users\luand\OneDrive\Bureau\Retn\Path Mover\obj\Debug\RetnMover.pdb
